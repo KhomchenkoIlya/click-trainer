@@ -5,4 +5,3 @@ pip install -r requirements.txt
 pyinstaller --onefile ./main.py
 deactivate
 ./dist/main
-chmod +x my_app.sh
